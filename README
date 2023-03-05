@@ -1,0 +1,4 @@
+This application is created to parse poster of every movie you rated at IMDb.
+You may need these images for different purposes like creating your personal movies tier-list.
+
+To use this app, just insert your IMDb rating link (for example: https://www.imdb.com/user/ur158660504/ratings?ref_=nv_usr_rt_4), choose directory path where all the images will be loaded and click "Download".
